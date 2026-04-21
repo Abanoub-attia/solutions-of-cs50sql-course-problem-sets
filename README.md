@@ -1,5 +1,10 @@
 # CS50 SQL — Problem Set Solutions
 
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite3-lightgrey)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+
 This repository contains my solutions to the problem sets from **[CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)**, a course offered by Harvard University.
 
 ---
